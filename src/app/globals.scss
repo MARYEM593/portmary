@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .icones::before {
+      content: url("/assets/icones/log.png");
+      width: 20px !important;
+      top: 0;
+      left: 0px;
+    }
+    body {
+      font-size: 15px;
+      max-width: 1920px;
+      display: block;
+      margin: auto;
+      overflow-x: hidden;
+      background-image: url("/assets/icones/backgroundpage.png");
+      background-size: 100% auto;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+      
+    }
+    p,
+    li {
+      // font-family: "Montserrat";
+      font-size: 1.14rem;
+      line-height: 33px;
+      // font-weight: 600;
+      @media screen and (max-width: 992px) {
+        font-size: 1rem;
+      }
+    }
+  
+    h1 {
+      font-family: "Montserrat-bold";
+      font-size: 2.4rem;
+      line-height: 37px;
+      @media screen and (max-width: 992px) {
+        font-size: 1.9rem;
+      }
+    }
+    h2 {
+      font-size: 2rem;
+      font-family: "Montserrat-bold";
+      line-height: 30px;
+      @media screen and (max-width: 992px) {
+        font-size: 1.5rem;
+      }
+    }
+    h3 {
+      font-size: 1.7rem;
+      font-family: "Montserrat-bold";
+      line-height: 30px;
+      @media screen and (max-width: 992px) {
+        font-size: 1.3rem;
+      }
+    }
+  }
+//   .menu-principal {
+//     background-color: $white;
+//     z-index: 111;
+//     width: 100%;
+//     padding-top: 10px !important ;
+//   }
+//   .footer{
+//     * {
+//       box-sizing: content-box !important;
+//     }
+//   }

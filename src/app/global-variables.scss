@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("/fonts/Montserrat/regular/a81c6ef023e90fb9f87ac017d242a337.eot");
+    src: url("/fonts/Montserrat/regular/a81c6ef023e90fb9f87ac017d242a337.eot?#iefix")
+        format("embedded-opentype"),
+      url("/fonts/Montserrat/regular/a81c6ef023e90fb9f87ac017d242a337.woff")
+        format("woff"),
+      url("/fonts/Montserrat/regular/a81c6ef023e90fb9f87ac017d242a337.woff2")
+        format("woff2"),
+      url("/fonts/Montserrat/regular/a81c6ef023e90fb9f87ac017d242a337.ttf")
+        format("truetype"),
+      url("/fonts/Montserrat/regular/a81c6ef023e90fb9f87ac017d242a337.svg#Montserrat")
+        format("svg");
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Montserrat-bold";
+    src: url("/fonts/Montserrat/bold/d3085f686df272f9e1a267cc69b2d24f.eot");
+    src: url("/fonts/Montserrat/bold/d3085f686df272f9e1a267cc69b2d24f.eot?#iefix")
+        format("embedded-opentype"),
+      url("/fonts/Montserrat/bold/d3085f686df272f9e1a267cc69b2d24f.woff")
+        format("woff"),
+      url("/fonts/Montserrat/bold/d3085f686df272f9e1a267cc69b2d24f.woff2")
+        format("woff2"),
+      url("/fonts/Montserrat/bold/d3085f686df272f9e1a267cc69b2d24f.ttf")
+        format("truetype"),
+      url("/fonts/Montserrat/bold/d3085f686df272f9e1a267cc69b2d24f.svg#Montserrat-Bold")
+        format("svg");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Montserrat-medium";
+    src: url("/fonts/Montserrat/medium/01c2d48a8d3bbd9730fccb2354765d43.eot");
+    src: url("/fonts/Montserrat/medium/01c2d48a8d3bbd9730fccb2354765d43.eot?#iefix")
+        format("embedded-opentype"),
+      url("/fonts/Montserrat/medium/01c2d48a8d3bbd9730fccb2354765d43.woff")
+        format("woff"),
+      url("/fonts/Montserrat/medium/01c2d48a8d3bbd9730fccb2354765d43.woff2")
+        format("woff2"),
+      url("/fonts/Montserrat/medium/01c2d48a8d3bbd9730fccb2354765d43.ttf")
+        format("truetype"),
+      url("/fonts/Montserrat/medium/01c2d48a8d3bbd9730fccb2354765d43.svg#MontserratMedium")
+        format("svg");
+    font-weight: medium;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Brittany Signature";
+    src: url("/fonts/Brittany-Signature/b4d584ed0e53ba94a815f817690faab2.eot");
+    src: url("/fonts/Brittany-Signature/b4d584ed0e53ba94a815f817690faab2.eot?#iefix")
+        format("embedded-opentype"),
+      url("/fonts/Brittany-Signature/b4d584ed0e53ba94a815f817690faab2.woff2")
+        format("woff2"),
+      url("/fonts/Brittany-Signature/b4d584ed0e53ba94a815f817690faab2.woff")
+        format("woff"),
+      url("/fonts/Brittany-Signature/b4d584ed0e53ba94a815f817690faab2.ttf")
+        format("truetype"),
+      url("/fonts/Brittany-Signature/b4d584ed0e53ba94a815f817690faab2.svg#Brittany Signature")
+        format("svg");
+  }
+  
+
+  $emploiGray: #f2f2f2;
+  $lightGray: #e9e9e9;
+  $darkGray: #707070;
+  $yellow: #dcca03;
+  $lightyellow: #d5d4c2;
+
+  $white: #ffffff;
+
+  $black: #1d1d1d;
+

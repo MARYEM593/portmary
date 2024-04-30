@@ -1,0 +1,51 @@
+{
+  "Navbar": {
+    "header": [
+      {
+        "id": 0,
+        "name": "Home",
+        "url": "Home"
+      },
+      {
+        "id": 1,
+        "name": "About me",
+        "url": "About-me"
+      },
+      {
+        "id": 2,
+        "name": "Services",
+        "url": "Services"
+      },
+      {
+        "id": 3,
+        "name": "My skills",
+        "url": "My-skills"
+      },
+      {
+        "id": 4,
+        "name": "My work",
+        "url": "My-work"
+      },
+      {
+        "id": 5,
+        "name": "Blog",
+        "url": "Blog"
+      },
+      {
+        "id": 6,
+        "name": "Contact me",
+        "url": "Contact-me"
+      }
+    ]
+  },
+  "NotFoundPage":{
+    "title": "Page Not Found",
+    "description":"Oops"
+  },
+  "Navigation":{
+    "home":"home"
+  },
+  "Footer":{
+    "copyright": "(c) 2019 Copyright"
+  }
+}
